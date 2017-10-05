@@ -13,15 +13,15 @@
  * @package           Plugin_Name
  *
  * @wordpress-plugin
- * Plugin Name:       Plugin Name
+ * Plugin Name:       My first Plugin
  * Plugin URI:        http://example.com/plugin-name-uri/
- * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
+ * Description:       It's going to do a lot of things but rightnow it doesn't do anything
  * Version:           1.0.0
- * Author:            Your Name or Your Company
- * Author URI:        http://example.com/
+ * Author:            Rick Wharton
+ * Author URI:        http://whartonwebworks.com/
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
- * Text Domain:       plugin-name
+ * Text Domain:       my-first-plugin
  * Domain Path:       /languages
  */
 
